@@ -11,6 +11,8 @@ public class DFS {
     public static void main(String[] args) {
         
     }
+
+    /// SC - O(N)   TC - O(N) + O(E)
     public ArrayList<Integer> dfsOfGraph(int V, ArrayList<ArrayList<Integer>> adj) {
         boolean vis[] = new boolean[V+1];
         vis[0] = true;
