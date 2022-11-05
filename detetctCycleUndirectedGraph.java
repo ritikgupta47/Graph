@@ -8,7 +8,7 @@ public class detetctCycleUndirectedGraph {
         boolean vis[] = new boolean[v];
         for(int i = 0; i < v ; i++){
             if(vis[i] == false){
-                // function call; 
+                // function call;  
             }
         }
         return false;
