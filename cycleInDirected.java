@@ -22,7 +22,8 @@ public class cycleInDirected {
         for(int k : adj.get(i)){
             if(helper[k] == true) return true;
             if(vis[k] == false){
-                return dfs(adj, k, vis, helper);
+                boolean ans = dfs(adj, k, vis, helper);
+                if(ans == true) return true;
             }
         }
         helper[i] = false;
