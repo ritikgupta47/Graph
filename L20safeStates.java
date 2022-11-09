@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class safeStates {
+public class L20safeStates {
     public static void main(String[] args) {
         int V = 12;
         List<List<Integer>> adj = new ArrayList<>();

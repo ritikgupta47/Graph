@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GraphImplementation {
+public class L4GraphImplementation {
 
     public static void printHelper(int adj_mat[][], int sv, boolean visited[]) {
         System.out.println(sv);

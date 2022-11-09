@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class bipartate {
+public class L17bipartate {
     public static void main(String[] args) {
         int[][] graph = { { 1, 2, 3 },
                 { 0, 2 },

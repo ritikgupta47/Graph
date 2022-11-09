@@ -1,5 +1,5 @@
 import java.util.*;
-public class cycleInDirected {
+public class L19cycleInDirected {
     public static void main(String[] args) {
         
     }

@@ -1,5 +1,5 @@
 import java.util.*;
-public class keysAndRooms {
+public class Q1keysAndRooms {
     public static void main(String[] args) {
     
     }

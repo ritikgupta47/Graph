@@ -22,7 +22,7 @@ Input: grid = [
 Output: 3
  */
 
-public class noOfIsland {
+public class L8noOfIsland {
     public static void main(String[] args) {
         char[][] grid = {
             {'1','1','1','1','0'},

@@ -9,7 +9,7 @@ Return the total number of provinces. */
 
 import java.util.*;
 
-public class noOfProvinces {
+public class L7noOfProvinces {
     public static void main(String[] args) {
         int[][] isConnected = { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } };
         int n = isConnected.length;

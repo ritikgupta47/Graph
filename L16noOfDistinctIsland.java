@@ -40,7 +40,7 @@ grid[][] = {{1, 1, 0, 1, 1},
 
 
 import java.util.*;
-public class noOfDistinctIsland {
+public class L16noOfDistinctIsland {
     public static void main(String[] args) {
         int[][] grid = { { 1, 1, 0, 0, 0 },
                 { 1, 1, 0, 0, 0 },

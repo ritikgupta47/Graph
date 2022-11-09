@@ -23,7 +23,7 @@ Explanation: The starting pixel is already colored 0, so no changes are made to 
  */
 
 
-public class floodFill {
+public class L9floodFill {
     public static void main(String[] args) {
         int[][] image = {
                 { '1', '1', '1', },

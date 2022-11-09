@@ -7,7 +7,7 @@ Note: Use a recursive approach to find the DFS traversal of the graph starting f
 
 
 import java.util.*;
-public class DFS {
+public class L6DFS {
     public static void main(String[] args) {
         
     }

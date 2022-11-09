@@ -30,7 +30,7 @@ Output: [["X"]]
 The intuition is that we start from boundary elements having ‘O’ and go through its neighboring Os in 4 directions and mark them as visited to
  avoid replacing them with ‘X’. 
  */
-public class surroundRegion {
+public class L14surroundRegion {
     public static void main(String[] args) {
         char[][] a = {
             {'X' , 'X' , 'X', 'X'},
